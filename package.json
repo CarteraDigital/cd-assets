@@ -1,8 +1,7 @@
 {
   "name": "carteradigital-fonts",
-  "version": "0.20.0",
+  "version": "0.20.1",
   "description": "Iconos personalizados para Cartera Digital.",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

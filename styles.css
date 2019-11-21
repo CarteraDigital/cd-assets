@@ -38,46 +38,46 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.cd-cobro:before {
+.cd-actividades-administrativas:before {
   content: "\e000";
 }
-.cd-seguimiento:before {
+.cd-actividades-educativas:before {
   content: "\e001";
 }
-.cd-deserciones:before {
+.cd-actividades-promocionales:before {
   content: "\e002";
 }
 .cd-ampliaciones:before {
   content: "\e003";
 }
-.cd-actividades-administrativas:before {
+.cd-campanas:before {
   content: "\e004";
 }
-.cd-actividades-educativas:before {
+.cd-cobro:before {
   content: "\e005";
 }
-.cd-actividades-promocionales:before {
+.cd-cobro-preventivo:before {
   content: "\e006";
 }
-.cd-campanas:before {
+.cd-crear-prospecto:before {
   content: "\e007";
 }
-.cd-crear-prospecto:before {
+.cd-desembolso:before {
   content: "\e008";
 }
-.cd-fiador:before {
+.cd-deserciones:before {
   content: "\e009";
 }
-.cd-cobro-preventivo:before {
+.cd-fiador:before {
   content: "\e00a";
 }
-.cd-prospecto:before {
+.cd-gps:before {
   content: "\e00b";
 }
-.cd-desembolso:before {
+.cd-prospecto:before {
   content: "\e00c";
 }
-.cd-gps:before {
+.cd-seguimiento:before {
   content: "\e00d";
 }
 .cd-multiples-dispositivos:before {
