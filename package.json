@@ -1,0 +1,30 @@
+{
+  "name": "carteradigital-fonts",
+  "version": "0.20.0",
+  "description": "Iconos personalizados para Cartera Digital.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarteraDigital/cd-webfonts.git"
+  },
+  "keywords": [
+    "webfonts",
+    "fonts",
+    "cartera",
+    "digital",
+    "citylab"
+  ],
+  "author": {
+    "name": "CityLab Coding Studio",
+    "email": "victor.reyes@citylab.la",
+    "web": "http://citylab.la/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarteraDigital/cd-webfonts/issues"
+  },
+  "homepage": "https://github.com/CarteraDigital/cd-webfonts#readme"
+}
