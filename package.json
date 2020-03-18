@@ -1,6 +1,6 @@
 {
-  "name": "carteradigital-fonts",
-  "version": "0.20.1",
+  "name": "carteradigital-assets",
+  "version": "1.0.3",
   "description": "Iconos personalizados para Cartera Digital.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,14 +16,15 @@
     "digital",
     "citylab"
   ],
-  "author": {
-    "name": "CityLab Coding Studio",
-    "email": "victor.reyes@citylab.la",
-    "web": "http://citylab.la/"
-  },
+  "author": "CityLab Coding Studio <victor.reyes@citylab.la> (http://citylab.la/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CarteraDigital/cd-webfonts/issues"
   },
-  "homepage": "https://github.com/CarteraDigital/cd-webfonts#readme"
+  "homepage": "https://github.com/CarteraDigital/cd-webfonts#readme",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.2.0"
+  }
 }
